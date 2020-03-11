@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <DBHost>localhost</DBHost>
+  <DBPort>5432</DBPort>
+  <DBUser>postgres</DBUser>
+  <DBPass>SZPAZ5gHlJruV4O5tob2UA==</DBPass>
+  <DBBase>odoo</DBBase>
+  <UrlLigacao>http://localhost:9810/file/</UrlLigacao>
+  <UrlService>http://169.57.165.27/api/rsurvey.php</UrlService>
+  <PathLog>C:\SurveyService\logs\</PathLog>
+  <PathFile>C:\SurveyService\</PathFile>
+  <ExtensionStart>0</ExtensionStart>
+  <ExtensionEnd>0</ExtensionEnd>
+  <TokenExact>763dddf3-406c-454c-82ab-c77dc7bcb1ac</TokenExact>
+</config>
